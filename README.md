@@ -1,6 +1,6 @@
 # Helm Chart Demonstration Resources
 
-The following instructions are used to demonstrate how to build, package, and install a Helm 3 custom chart.
+The following instructions are used to demonstrate how to build, package, and install a Helm custom chart.
 
 ![Helm](./doc/HelmKubernetesDistro.png)
 
